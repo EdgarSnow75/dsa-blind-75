@@ -1,0 +1,1 @@
+I created a nested list with the first element of the input list of string as the first element. Using a nested list, I check each string element of the input string list against the item in the sublist. If the inner item and the input list string are anagrams, I put that string into the item bracket. If not, add a new bucket list containing that string
