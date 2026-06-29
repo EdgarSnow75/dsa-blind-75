@@ -1,0 +1,1 @@
+Using a nested loop where the inner loop only starts after the current iteration of the outer loop, skipping the numbers already processed once by the outer loop and ensures that the outer loop's index is always smaller than the inner loop. A fast solution that is in the top group of solutions.
